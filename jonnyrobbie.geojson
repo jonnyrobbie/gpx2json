@@ -1,0 +1,2005 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3ARF0",
+        "desc": "Slavin monument",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.099817,
+          48.154267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1NK9T",
+        "desc": "Divadlo Malá scéna STU",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.119567,
+          48.1423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC10886",
+        "desc": "Trnkova",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.407767,
+          50.08595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1HT0N",
+        "desc": "5 bratru - Ruzovy rybnik",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.810067,
+          48.801633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC2RNGG",
+        "desc": "Vrsovicka realka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4575,
+          50.070667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC5R4C3",
+        "desc": "Hostivarsky hrbitov",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.52385,
+          50.046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC2BKXM",
+        "desc": "Betlemska kaple",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.454117,
+          50.085967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC14WV8",
+        "desc": "Terezka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.41775,
+          50.086783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC22AX5",
+        "desc": "Karel Nepras #1",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.452617,
+          50.086517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC5WVR1",
+        "desc": "Volame vsechny Cechy!",
+        "type": "Geocache|Unknown Cache",
+        "marker-color": "#0025c1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.434483,
+          50.078617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC20G4P",
+        "desc": "Slavia Rugby",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.474183,
+          50.06595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC34PZC",
+        "desc": "Rozhledna na Cerne hore",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.751867,
+          50.648917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC2XGZN",
+        "desc": "Javorka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6223,
+          49.834167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC2YX11",
+        "desc": "Prokopka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.76445,
+          50.034817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC6YBA1",
+        "desc": "Vrchlickeho sady",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.433783,
+          50.084767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GCP7YK",
+        "desc": "Praha - Hlavni nadrazi / Prague - The Main Station",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.437083,
+          50.0815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC40W0A",
+        "desc": "Ministerstvo",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.455583,
+          50.075333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3TZBC",
+        "desc": "U skoly",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.755767,
+          50.042683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1B418",
+        "desc": "Rotunda sv. Krize Mensiho",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.414817,
+          50.083033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC5H11B",
+        "desc": "Vitejte u brhlika lesniho",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.76505,
+          50.044967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1FV1N",
+        "desc": "Lednicky zamek / The Lednice Castle",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.806683,
+          48.8019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GCY81N",
+        "desc": "Zizkuv dub",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.58975,
+          49.876867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC4Z4X5",
+        "desc": "Visnovka vyhlidka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.504617,
+          50.096883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GCK943",
+        "desc": "Cerna Hora",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.750167,
+          50.6548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC6VDER",
+        "desc": "Prestupni- Underground",
+        "type": "Geocache|Unknown Cache",
+        "marker-color": "#0025c1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.753267,
+          50.031667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC4NGEB",
+        "desc": "Bikerova Maturita",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4195,
+          49.9719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC72B7J",
+        "desc": "Krastelka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.90355,
+          48.857067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GCPFZX",
+        "desc": "Loreta / Loreto",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.391283,
+          50.088467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC34C6R",
+        "desc": "Detske hriste a inline-park Praha - Hloubetin",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.528567,
+          50.0961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC5HWGJ",
+        "desc": "PraGeo - Louis Leger Street / Legerova ulice",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43045,
+          50.077683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3EYN4",
+        "desc": "(Modry) Kostol sv. Alzbety",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.117167,
+          48.143133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1H1EE",
+        "desc": "PraGeo - Stolpersteine / Kameny zmizelych",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4299,
+          50.08235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC63KCA",
+        "desc": "Travnik",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.41015,
+          50.082383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC4HCH4",
+        "desc": "Namesti Jiriho z Podebrad",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.452283,
+          50.077617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC4G34B",
+        "desc": "Softball Pardubice",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.754083,
+          50.023783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC67QYH",
+        "desc": "ZABA NA NEPRAMENI",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.528833,
+          50.043483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GCVT9R",
+        "desc": "Silver A",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.77375,
+          50.03475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC36MXJ",
+        "desc": "Janske Lazne - parking",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.769383,
+          50.630883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3019Y",
+        "desc": "Lesopark Jiriho Potucka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.748717,
+          50.052633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3F4HR",
+        "desc": "Vozickarska c.3 - Praha 9",
+        "type": "Geocache|Unknown Cache",
+        "marker-color": "#0025c1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.524067,
+          50.100233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC32EM9",
+        "desc": "Stretneme sa pod mostom/We'll meet under the bridg",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.104533,
+          48.139667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC189E5",
+        "desc": "Prague bridges 1 - Karluv most",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.409067,
+          50.08685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GCX6JV",
+        "desc": "Hradištek",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.887,
+          48.876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC2QCFR",
+        "desc": "Comeback/ovka",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.452167,
+          50.092733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC10HT9",
+        "desc": "Praha v kostce / Cubist facet of Prague",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.421267,
+          50.066367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1GZK1",
+        "desc": "Prazske legendy - O kostlivci s hrebem v hlave",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.404933,
+          50.089317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC4QKPJ",
+        "desc": "FILIP TOPOL",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4583,
+          50.080833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC53HVR",
+        "desc": "Jiraskuv sad",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5424,
+          50.091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC6RVJ5",
+        "desc": "Hradecky Aupark",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.808717,
+          50.21005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GCZAZ7",
+        "desc": "antiflood Kampa",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4079,
+          50.08325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC5H243",
+        "desc": "Vitejte u sykory modrinky!",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.762333,
+          50.041483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC7286B",
+        "desc": "Toulcuv dvur",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5209,
+          50.04785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3XHD0",
+        "desc": "Ordo Praedicatorum Praga",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.418333,
+          50.085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC48KQQ",
+        "desc": "Kostel sv.Rocha v Olsanech",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4603,
+          50.082133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC6Z49V",
+        "desc": "Joze Plecnik",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.450117,
+          50.078383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC4V739",
+        "desc": "Hrdlorezy",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.507833,
+          50.0958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC70271",
+        "desc": "Prasna brana / Powder tower",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4288,
+          50.087283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC5HVHW",
+        "desc": "Kostel sv. Bartolomeje",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.549033,
+          50.097433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC42CEM",
+        "desc": "Olsany (Wolschan) - zanikla obec",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.459417,
+          50.083617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC5Y02Z",
+        "desc": "Zamek Pardubice - labyrint",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7775,
+          50.041117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3KZC8",
+        "desc": "Houpava",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.750667,
+          50.026383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC4XEWX",
+        "desc": "Most Pavla W.",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.767,
+          50.04325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC2D7CW",
+        "desc": "Mista castych zjeveni - Zeleznicni most",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.41675,
+          50.067433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC6Z2EV",
+        "desc": "Budovy Transgasu",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43365,
+          50.078883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC56NXE",
+        "desc": "Bombardovani Pardubic",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.758783,
+          50.02475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC6NEA2",
+        "desc": "PsP 4 - Polabiny",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.76355,
+          50.040917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC6R7PM",
+        "desc": "Kostel svate Ludmily na Namesti Miru",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.437417,
+          50.07535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC6YFEM",
+        "desc": "Po kom se jmenuji... IX. - Lexova, Tepleho",
+        "type": "Geocache|Unknown Cache",
+        "marker-color": "#0025c1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.758667,
+          50.026767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3XHR1",
+        "desc": "SPORE 223 - Velke Bilovice",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.87805,
+          48.85525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1G24F",
+        "desc": "Aquadukt+Peklo",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.808417,
+          48.80925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1VW1V",
+        "desc": "Mistri sveta 1947 a 1949",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.415683,
+          50.079383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GCYN7F",
+        "desc": "Kubikovy Duby",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6088,
+          49.84415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1GQ2T",
+        "desc": "Prazske legendy - O zkamenelem ulicnikovi",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.420117,
+          50.082833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3M37C",
+        "desc": "Za zelenejsi Hradec 4 - Sukovy sady",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.813267,
+          50.209867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC16G6R",
+        "desc": "Modre kameny",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.781167,
+          50.645267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC6ZFNX",
+        "desc": "Masarykovo nadrazi",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43265,
+          50.087667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC28F4N",
+        "desc": "Lichnice",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.586517,
+          49.878267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1CA2Y",
+        "desc": "Pisecka brana/Pisek gate",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.40585,
+          50.095667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3K4J3",
+        "desc": "PORICI",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.430033,
+          50.088533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3BE7A",
+        "desc": "Vrsovicky hrbitov pod Bohdalcem",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.467633,
+          50.063717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GCF496",
+        "desc": "Cache my Czech (Prague)",
+        "type": "Geocache|Virtual Cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4103,
+          50.08665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1A4GX",
+        "desc": "Blue Steel",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.464883,
+          50.064767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC41HG2",
+        "desc": "Polabiny, zakladni kamen",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7593,
+          50.04715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC5D4RB",
+        "desc": "Zlaty potok",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.636917,
+          49.86435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GCGXPB",
+        "desc": "the cemetery cache",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.464367,
+          50.079717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC114TQ",
+        "desc": "Zelena Brana - The Green Gate",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.778033,
+          50.037967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC6721Z",
+        "desc": "Rolko a motyl",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.120533,
+          48.14365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC16NTW",
+        "desc": "Kralovsky letohradek/The Royal Summer Palace",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.405267,
+          50.094067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC11B7N",
+        "desc": "Kačacia fontána ⛲",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1161,
+          48.141767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC4CNVV",
+        "desc": "Zahadne Hradiste",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5899,
+          49.875017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1D4TK",
+        "desc": "FNKV cache",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.476633,
+          50.074183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC484FR",
+        "desc": "Odtrhnuta kotva / Anchor away",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.12265,
+          48.14675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC5EPEF",
+        "desc": "Kocici hradek / Cat's Castle - the early F. Skala",
+        "type": "Geocache|Unknown Cache",
+        "marker-color": "#0025c1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5785,
+          50.086317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC2GCRH",
+        "desc": "Posledni trolejbus",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.459817,
+          50.0753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC5FYF6",
+        "desc": "Prazske predmesti",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.815767,
+          50.209883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1G3JW",
+        "desc": "Zamecka zahrada",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.805317,
+          48.799733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1QZ1A",
+        "desc": "Cernohorska lanovka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.768267,
+          50.6288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC18JME",
+        "desc": "LIHOPA",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.53445,
+          50.043717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC6Q7HK",
+        "desc": "Sametova revoluce / The Velvet Revolution",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.418117,
+          50.081967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1FY8X",
+        "desc": "Alenka v risi divu",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.47545,
+          50.076417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC2V09W",
+        "desc": "Komorni filharmonie Pardubice",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.775867,
+          50.039167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1Z200",
+        "desc": "Minaret 2",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.811433,
+          48.814783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1B1E5",
+        "desc": "Karlinska synagoga",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.44515,
+          50.0917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1EMMK",
+        "desc": "Prague bridges 9 - Manesuv most",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.411233,
+          50.088883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1A5HB",
+        "desc": "Autobusovy terminal HK",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.811583,
+          50.21585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC46HQE",
+        "desc": "Vinohradska vodarna",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.450217,
+          50.075467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC54HMC",
+        "desc": "Vyroci 50 let od zalozeni",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.467767,
+          50.070117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC15WFT",
+        "desc": "Neva - Tocna",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.421817,
+          49.9755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC2Z5ZK",
+        "desc": "Lavka Rokytka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.512017,
+          50.096283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3FB89",
+        "desc": "Hubertka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.81805,
+          48.805283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC686AH",
+        "desc": "Guttulli kes",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.555767,
+          50.09785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC4RGKW",
+        "desc": "Main Point Karlin",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.445733,
+          50.09355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC2BMP8",
+        "desc": "Jak se dela pivo",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.761667,
+          50.0349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC45832",
+        "desc": "DUM U OSLA V KOLEBCE",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.398583,
+          50.088083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC25J40",
+        "desc": "4.prístav",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4634,
+          50.084083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3DMAV",
+        "desc": "NADRAZI HK",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8105,
+          50.2133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC36T1W",
+        "desc": "Hoffmanova bouda-celorocka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.756617,
+          50.632333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC60XKE",
+        "desc": "\"Vlasimska ulice\": Cache F - Praha",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.463767,
+          50.07355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC19CTH",
+        "desc": "Pardubicke mestske obvody VII",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.760533,
+          50.056017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC42KJK",
+        "desc": "Pardubicke duby",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.755883,
+          50.040767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GCZQ7Q",
+        "desc": "Lennon Wall",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4066,
+          50.0862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1JTWG",
+        "desc": "Podivny ptak / The Squawk",
+        "type": "Geocache|Unknown Cache",
+        "marker-color": "#0025c1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.521,
+          50.097567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC4XPZ8",
+        "desc": "Bartfayova Marina I.  / Bartfay's Marina I.",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.115167,
+          48.1427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC6VC6K",
+        "desc": "Zavodu miru - Osada Havranu",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.766017,
+          50.03865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC6Y64K",
+        "desc": "Legenda O stribrne rybe - Revival",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.419933,
+          50.077917
+        ]
+      }
+    }
+  ]
+}
