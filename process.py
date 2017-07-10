@@ -43,7 +43,7 @@ colors = {"Geocache|Traditional Cache": "#316013",
 		  "Geocache|Unknown Cache": "#0025c1",
 		  "Geocache|Multi-cache": "#e56200",
 		  "Geocache|Virtual Cache": "#ffffff",
-		  "fallback": "#0000ff"}
+		  "fallback": "#00ff00"}
 
 gpx_dir = "gpx-exports/"
 for filename in os.listdir(gpx_dir):

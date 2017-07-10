@@ -39,7 +39,7 @@
         "name": "GC10886",
         "desc": "Trnkova",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +55,7 @@
         "name": "GC1HT0N",
         "desc": "5 bratru - Ruzovy rybnik",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +135,7 @@
         "name": "GC22AX5",
         "desc": "Karel Nepras #1",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -343,7 +343,7 @@
         "name": "GCY81N",
         "desc": "Zizkuv dub",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -503,7 +503,7 @@
         "name": "GC1H1EE",
         "desc": "PraGeo - Stolpersteine / Kameny zmizelych",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -551,7 +551,7 @@
         "name": "GC4G34B",
         "desc": "Softball Pardubice",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -583,7 +583,7 @@
         "name": "GCVT9R",
         "desc": "Silver A",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -695,7 +695,7 @@
         "name": "GC2QCFR",
         "desc": "Comeback/ovka",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +711,7 @@
         "name": "GC10HT9",
         "desc": "Praha v kostce / Cubist facet of Prague",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -791,7 +791,7 @@
         "name": "GCZAZ7",
         "desc": "antiflood Kampa",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -839,7 +839,7 @@
         "name": "GC3XHD0",
         "desc": "Ordo Praedicatorum Praga",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -1015,7 +1015,7 @@
         "name": "GC6Z2EV",
         "desc": "Budovy Transgasu",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -1047,7 +1047,7 @@
         "name": "GC6NEA2",
         "desc": "PsP 4 - Polabiny",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -1127,7 +1127,7 @@
         "name": "GC1VW1V",
         "desc": "Mistri sveta 1947 a 1949",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -1207,7 +1207,7 @@
         "name": "GC6ZFNX",
         "desc": "Masarykovo nadrazi",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -1271,7 +1271,7 @@
         "name": "GC3BE7A",
         "desc": "Vrsovicky hrbitov pod Bohdalcem",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -1287,7 +1287,7 @@
         "name": "GCF496",
         "desc": "Cache my Czech (Prague)",
         "type": "Geocache|Virtual Cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#ffffff"
       },
       "geometry": {
         "type": "Point",
@@ -1591,7 +1591,7 @@
         "name": "GC1FY8X",
         "desc": "Alenka v risi divu",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -1767,7 +1767,7 @@
         "name": "GC686AH",
         "desc": "Guttulli kes",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
@@ -1975,7 +1975,7 @@
         "name": "GC6VC6K",
         "desc": "Zavodu miru - Osada Havranu",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#0000ff"
+        "marker-color": "#e56200"
       },
       "geometry": {
         "type": "Point",
