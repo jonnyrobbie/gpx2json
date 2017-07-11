@@ -25,7 +25,7 @@ colors = {"Geocache|Traditional Cache": "#316013",
 		  "Geocache|Unknown Cache": "#0025c1",
 		  "Geocache|Multi-cache": "#e56200",
 		  "Geocache|Virtual Cache": "#ffffff",
-		  "fallback": "#00ff00"}
+		  "fallback": "#ff0000"}
 
 for filename in args.gpx:
 	if verbose_print:
