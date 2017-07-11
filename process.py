@@ -2,15 +2,6 @@
 from xml.etree import ElementTree as ET
 import json, os, argparse
 
-#custom print wrapper
-def vprint(message):
-	if verbose_print == 1:
-		print(message)
-def jprint(message):
-	if json_print == 1:
-		print(message)
-		
-
 #argument parser
 parser = argparse.ArgumentParser(description='Converts c:geo gpx to geojson.')
 parser.add_argument("-j", "--json", help="Outputs formatted GeoJSON.", action="store_true")
