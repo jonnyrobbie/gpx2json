@@ -4,6 +4,22 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "GC6Y64K",
+        "desc": "Legenda O stribrne rybe - Revival",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.419933,
+          50.077917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "GC3ARF0",
         "desc": "Slavin monument",
         "type": "Geocache|Traditional Cache",
@@ -1982,22 +1998,6 @@
         "coordinates": [
           15.766017,
           50.03865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "GC6Y64K",
-        "desc": "Legenda O stribrne rybe - Revival",
-        "type": "Geocache|Traditional Cache",
-        "marker-color": "#316013"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.419933,
-          50.077917
         ]
       }
     }
