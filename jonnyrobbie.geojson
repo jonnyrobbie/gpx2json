@@ -2000,6 +2000,406 @@
           50.03865
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3TR37",
+        "desc": "Pod kamenem #01",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.058267,
+          49.631667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC4KHYY",
+        "desc": "Pod kamenem #11",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.07655,
+          49.636233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3TR5C",
+        "desc": "Pod kamenem #04",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.063067,
+          49.628467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3TR5X",
+        "desc": "Pod kamenem #08",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.072317,
+          49.62985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC4F6Q4",
+        "desc": "Houby",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.04935,
+          49.630117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC4KHZQ",
+        "desc": "Pod kamenem #13",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.072367,
+          49.640667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC2E6RX",
+        "desc": "Malinska skala",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.071667,
+          49.661033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GCPRBP",
+        "desc": "Lisovska skala",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.038283,
+          49.661567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC2QTTQ",
+        "desc": "Rybnik Rasnik",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.072533,
+          49.6753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC4KHZX",
+        "desc": "Pod kamenem #14",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.071633,
+          49.643017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC4KJ08",
+        "desc": "Pod kamenem #15",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.075017,
+          49.643633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3TR60",
+        "desc": "Pod kamenem #09",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.07225,
+          49.631433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3TR68",
+        "desc": "Pod kamenem #10",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.075217,
+          49.633533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC4KHZB",
+        "desc": "Pod kamenem #12",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0741,
+          49.638083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3J1RE",
+        "desc": "Na Pasece",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.052967,
+          49.679867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3GPWM",
+        "desc": "Krtecci poklad - II",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.080717,
+          49.666333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3TR5G",
+        "desc": "Pod kamenem #05",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.066033,
+          49.628667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3TR5M",
+        "desc": "Pod kamenem #06",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.069,
+          49.6283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3PZ13",
+        "desc": "Milovska cache",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.09295,
+          49.665433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC32K93",
+        "desc": "Studanka Slavena",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0582,
+          49.675967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3TR53",
+        "desc": "Pod kamenem #03",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.060217,
+          49.6294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GCPKRR",
+        "desc": "Devet skal",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0322,
+          49.67055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3TR5T",
+        "desc": "Pod kamenem #07",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.073133,
+          49.627917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1PDY0",
+        "desc": "Cesta do Pekla a raje / A way to Hell and eden",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#e56200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.609317,
+          49.866967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC3TR4Z",
+        "desc": "Pod kamenem #02",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.055083,
+          49.630133
+        ]
+      }
     }
   ]
 }
