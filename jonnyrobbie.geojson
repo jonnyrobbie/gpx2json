@@ -2400,6 +2400,214 @@
           49.630133
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1095Y",
+        "desc": "Pankrac",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43095,
+          50.057867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1HXBF",
+        "desc": "Meteostanica Vinianske jazero",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.983367,
+          48.82125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1M29H",
+        "desc": "Immaculata",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.256917,
+          48.72265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC34980",
+        "desc": "Vinianske jazero",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.987267,
+          48.814533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC23RG2",
+        "desc": "Rumia Banovce",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.834483,
+          48.680017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC2WXV6",
+        "desc": "PR Olchov",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.827883,
+          48.667233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1CVCW",
+        "desc": "Dom sv. Alzbety - St. Elisabeth Cathedral",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.25845,
+          48.720233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1X20P",
+        "desc": "Rumia Rozlucka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.921317,
+          48.749433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1Q1DF",
+        "desc": "Rumia \"Parkovisko\" Morske oko",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2046,
+          48.906667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1KQPV",
+        "desc": "Najstarsia spievajuca fontana",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2576,
+          48.7216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC48FB3",
+        "desc": "Jakabov palac (Jakab Palace)",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.26265,
+          48.721817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC16WXA",
+        "desc": "Alphaforce IV - Mens sana in corpore sano",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.198083,
+          48.917783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GC1YMFB",
+        "desc": "Rumia Vinansky kamenolom",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#316013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.978267,
+          48.818617
+        ]
+      }
     }
   ]
 }
