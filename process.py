@@ -29,9 +29,9 @@ colors = {"Geocache|Traditional Cache": "#316013",
 
 for filename in args.gpx:
 	if verbose_print:
-		vprint(20*"=")
-		vprint("Parsing " + filename)
-		vprint(20*"-")
+		print(20*"=")
+		print("Parsing " + filename)
+		print(20*"-")
 	#XML parsing
 	tree = ET.parse(filename)
 	gpx = tree.getroot()
@@ -53,9 +53,9 @@ for filename in args.gpx:
 			feature = {"type": "Feature", "properties": properties, "geometry": geometry}
 			features.append(feature)
 if verbose_print:
-	vprint(20*"=")
-	vprint("Detected unidentified cache types: " + str(set(unknowns_detected)))
-	vprint(20*"=")
+	print(20*"=")
+	print("Detected unidentified cache types: " + str(set(unknowns_detected)))
+	print(20*"=")
 geojson = {"type": "FeatureCollection", "features": features}
 if json_print:
 	print(json.JSONEncoder(indent=2, ensure_ascii=False).encode(geojson))
