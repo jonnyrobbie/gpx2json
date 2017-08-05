@@ -24,7 +24,8 @@ unknowns_detected = []
 colors = {"Geocache|Traditional Cache": "#02874d",
 		  "Geocache|Unknown Cache": "#12508c",
 		  "Geocache|Multi-cache": "#e98300",
-		  "Geocache|Virtual Cache": "##009bbb",
+		  "Geocache|Virtual Cache": "#ffffff",
+		  "Geocache|Earthcache": "#009bbb",
 		  "fallback": "#ff0000"}
 
 for filename in args.gpx:
