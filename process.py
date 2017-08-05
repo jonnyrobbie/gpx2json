@@ -21,10 +21,10 @@ else:
 ns = {"tg": "http://www.topografix.com/GPX/1/0"}
 features = []
 unknowns_detected = []
-colors = {"Geocache|Traditional Cache": "#316013",
-		  "Geocache|Unknown Cache": "#0025c1",
-		  "Geocache|Multi-cache": "#e56200",
-		  "Geocache|Virtual Cache": "#ffffff",
+colors = {"Geocache|Traditional Cache": "#02874d",
+		  "Geocache|Unknown Cache": "#12508c",
+		  "Geocache|Multi-cache": "#e98300",
+		  "Geocache|Virtual Cache": "##009bbb",
 		  "fallback": "#ff0000"}
 
 for filename in args.gpx:
