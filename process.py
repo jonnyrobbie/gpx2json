@@ -54,14 +54,14 @@ for filename in args.gpx:
 			feature = {"type": "Feature", "properties": properties, "geometry": geometry}
 			features.append(feature)
 
-def find_dups(l):
-	return list(set([x for x in l if l.count(x) > 1]))
-duplicates = find_dups(features)
+#def find_dups(l):
+	#return list(set([x for x in l if l.count(x) > 1]))
+#duplicates = find_dups(features)
 
 if verbose_print:
 	print(20*"=")
 	print("Detected unidentified cache types: ", unknowns_detected)
-	print("Duplicate caches:", duplicates)
+	#print("Duplicate caches:", duplicates)
 	print("Total caches added: ", len(features))
 	print(20*"=")
 geojson = {"type": "FeatureCollection", "features": features}
