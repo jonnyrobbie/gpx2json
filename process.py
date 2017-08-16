@@ -58,8 +58,7 @@ for filename in args.gpx:
 				 "description": gc_desc,
 				 "type": gc_type,
 				 "marker-color": gc_color,
-				 "stroke-width": "1",
-				 "marker-symbol": "circle"}
+				 "stroke-width": 1}
 			geometry = {"type": "Point",
 			   "coordinates": [gc_lon, gc_lat]}
 			feature = {"type": "Feature",
