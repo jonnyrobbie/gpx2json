@@ -23,6 +23,7 @@ logging.basicConfig(level=vcount[args.verbose])
 ns = {"tg": "http://www.topografix.com/GPX/1/0"}
 features = []
 unknowns_detected = []
+names = []
 colors = {"Geocache|Traditional Cache": "#02874d",
 		  "Geocache|Unknown Cache": "#12508c",
 		  "Geocache|Multi-cache": "#e98300",
@@ -54,14 +55,16 @@ for filename in args.gpx:
 			geometry = {"type": "Point", "coordinates": [gc_lon, gc_lat]}
 			feature = {"type": "Feature", "properties": properties, "geometry": geometry}
 			features.append(feature)
+			names.append(gc_name)
 
-#def find_dups(l):
-	#return list(set([x for x in l if l.count(x) > 1]))
-#duplicates = find_dups(features)
+def find_dups(l):
+	return list(set([x for x in l if l.count(x) > 1]))
+duplicates = find_dups(names)
 
 logging.info("====================")
 logging.info("Detected unidentified cache types: %i", len(unknowns_detected))
 logging.info("Duplicate caches: %i", len(duplicates))
+if len(duplicates) != 0: logging.info("List of diplicates: %s", duplicates)
 logging.info("Total caches added: %i", len(features))
 logging.info("====================")
 geojson = {"type": "FeatureCollection", "features": features}
