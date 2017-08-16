@@ -1,21 +1,23 @@
 #!/usr/bin/python
 from xml.etree import ElementTree as ET
-import json, os, argparse
+import json, os, argparse, logging
+
+vcount = {2: logging.DEBUG,
+		  1: logging.INFO,
+		  None: logging.WARNING}
 
 #argument parser
 parser = argparse.ArgumentParser(description='Converts c:geo gpx to geojson.')
 parser.add_argument("-j", "--json", help="Outputs formatted GeoJSON.", action="store_true")
-parser.add_argument("-v", "--verbose", help="Outputs cache parsing details.", action="store_true")
+parser.add_argument("-v", "--verbose", help="Verbose output.", action="count")
 parser.add_argument('gpx', nargs='+', help="GPX files exported from c:geo")
 args = parser.parse_args()
 if args.json == True:
 	json_print = 1
 else:
 	json_print = 0
-if args.verbose == True:
-	verbose_print = 1
-else:
-	verbose_print = 0
+
+logging.basicConfig(level=vcount[args.verbose])
 
 #geocache variables
 ns = {"tg": "http://www.topografix.com/GPX/1/0"}
@@ -29,10 +31,9 @@ colors = {"Geocache|Traditional Cache": "#02874d",
 		  "fallback": "#ff0000"}
 
 for filename in args.gpx:
-	if verbose_print:
-		print(20*"=")
-		print("Parsing " + filename)
-		print(20*"-")
+	logging.info("====================")
+	logging.info("Parsing %s", filename)
+	logging.info("--------------------")
 	#XML parsing
 	tree = ET.parse(filename)
 	gpx = tree.getroot()
@@ -48,7 +49,7 @@ for filename in args.gpx:
 			except KeyError:
 				gc_color = colors["fallback"]
 				unknowns_detected.append(gc_type)
-			if verbose_print: print(gc_name, gc_type, gc_desc, gc_lat, gc_lon)
+			logging.info("%s %s %s %f %f", gc_name, gc_type, gc_desc, gc_lat, gc_lon)
 			properties = {"name": gc_name, "desc": gc_desc, "type": gc_type, "marker-color": gc_color}
 			geometry = {"type": "Point", "coordinates": [gc_lon, gc_lat]}
 			feature = {"type": "Feature", "properties": properties, "geometry": geometry}
@@ -58,12 +59,11 @@ for filename in args.gpx:
 	#return list(set([x for x in l if l.count(x) > 1]))
 #duplicates = find_dups(features)
 
-if verbose_print:
-	print(20*"=")
-	print("Detected unidentified cache types: ", unknowns_detected)
-	#print("Duplicate caches:", duplicates)
-	print("Total caches added: ", len(features))
-	print(20*"=")
+logging.info("====================")
+logging.info("Detected unidentified cache types: %i", len(unknowns_detected))
+logging.info("Duplicate caches: %i", len(duplicates))
+logging.info("Total caches added: %i", len(features))
+logging.info("====================")
 geojson = {"type": "FeatureCollection", "features": features}
 if json_print:
 	print(json.JSONEncoder(indent=2, ensure_ascii=False).encode(geojson))
