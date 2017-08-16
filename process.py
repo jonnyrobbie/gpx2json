@@ -51,7 +51,7 @@ for filename in args.gpx:
 				gc_color = colors["fallback"]
 				unknowns_detected.append(gc_type)
 			logging.info("%s %s %s %f %f", gc_name, gc_type, gc_desc, gc_lat, gc_lon)
-			properties = {"name": gc_name, "desc": gc_desc, "type": gc_type, "marker-color": gc_color}
+			properties = {"title": gc_name, "description": gc_desc, "type": gc_type, "marker-color": gc_color, "stroke-width": "1", "marker-symbol": "circle"}
 			geometry = {"type": "Point", "coordinates": [gc_lon, gc_lat]}
 			feature = {"type": "Feature", "properties": properties, "geometry": geometry}
 			features.append(feature)
