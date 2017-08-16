@@ -64,7 +64,7 @@ duplicates = find_dups(names)
 logging.info("====================")
 logging.info("Detected unidentified cache types: %i", len(unknowns_detected))
 logging.info("Duplicate caches: %i", len(duplicates))
-if len(duplicates) != 0: logging.info("List of diplicates: %s", duplicates)
+if len(duplicates) != 0: logging.info("List of duplicates: %s", duplicates)
 logging.info("Total caches added: %i", len(features))
 logging.info("====================")
 geojson = {"type": "FeatureCollection", "features": features}
