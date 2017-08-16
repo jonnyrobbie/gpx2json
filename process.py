@@ -1,6 +1,9 @@
 #!/usr/bin/python
 from xml.etree import ElementTree as ET
-import json, os, argparse, logging
+import json
+import os
+import argparse
+import logging
 
 vcount = {2: logging.DEBUG,
 		  1: logging.INFO,
@@ -51,9 +54,17 @@ for filename in args.gpx:
 				gc_color = colors["fallback"]
 				unknowns_detected.append(gc_type)
 			logging.info("%s %s %s %f %f", gc_name, gc_type, gc_desc, gc_lat, gc_lon)
-			properties = {"title": gc_name, "description": gc_desc, "type": gc_type, "marker-color": gc_color, "stroke-width": "1", "marker-symbol": "circle"}
-			geometry = {"type": "Point", "coordinates": [gc_lon, gc_lat]}
-			feature = {"type": "Feature", "properties": properties, "geometry": geometry}
+			properties = {"title": gc_name,
+				 "description": gc_desc,
+				 "type": gc_type,
+				 "marker-color": gc_color,
+				 "stroke-width": "1",
+				 "marker-symbol": "circle"}
+			geometry = {"type": "Point",
+			   "coordinates": [gc_lon, gc_lat]}
+			feature = {"type": "Feature",
+			  "properties": properties,
+			  "geometry": geometry}
 			features.append(feature)
 			names.append(gc_name)
 
