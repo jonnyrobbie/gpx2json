@@ -4,10 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC6Y64K",
-        "desc": "Legenda O stribrne rybe - Revival",
+        "title": "GC6Y64K",
+        "description": "Legenda O stribrne rybe - Revival",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -20,10 +22,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3ARF0",
-        "desc": "Slavin monument",
+        "title": "GC3ARF0",
+        "description": "Slavin monument",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -36,10 +40,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1NK9T",
-        "desc": "Divadlo Malá scéna STU",
+        "title": "GC1NK9T",
+        "description": "Divadlo Malá scéna STU",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -52,10 +58,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC10886",
-        "desc": "Trnkova",
+        "title": "GC10886",
+        "description": "Trnkova",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -68,10 +76,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1HT0N",
-        "desc": "5 bratru - Ruzovy rybnik",
+        "title": "GC1HT0N",
+        "description": "5 bratru - Ruzovy rybnik",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -84,10 +94,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC2RNGG",
-        "desc": "Vrsovicka realka",
+        "title": "GC2RNGG",
+        "description": "Vrsovicka realka",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -100,10 +112,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC5R4C3",
-        "desc": "Hostivarsky hrbitov",
+        "title": "GC5R4C3",
+        "description": "Hostivarsky hrbitov",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -116,10 +130,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC2BKXM",
-        "desc": "Betlemska kaple",
+        "title": "GC2BKXM",
+        "description": "Betlemska kaple",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -132,10 +148,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC14WV8",
-        "desc": "Terezka",
+        "title": "GC14WV8",
+        "description": "Terezka",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -148,10 +166,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC22AX5",
-        "desc": "Karel Nepras #1",
+        "title": "GC22AX5",
+        "description": "Karel Nepras #1",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -164,10 +184,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC5WVR1",
-        "desc": "Volame vsechny Cechy!",
+        "title": "GC5WVR1",
+        "description": "Volame vsechny Cechy!",
         "type": "Geocache|Unknown Cache",
-        "marker-color": "#12508c"
+        "marker-color": "#12508c",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -180,10 +202,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC20G4P",
-        "desc": "Slavia Rugby",
+        "title": "GC20G4P",
+        "description": "Slavia Rugby",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -196,10 +220,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC34PZC",
-        "desc": "Rozhledna na Cerne hore",
+        "title": "GC34PZC",
+        "description": "Rozhledna na Cerne hore",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -212,10 +238,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC2XGZN",
-        "desc": "Javorka",
+        "title": "GC2XGZN",
+        "description": "Javorka",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -228,10 +256,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC2YX11",
-        "desc": "Prokopka",
+        "title": "GC2YX11",
+        "description": "Prokopka",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -244,10 +274,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC6YBA1",
-        "desc": "Vrchlickeho sady",
+        "title": "GC6YBA1",
+        "description": "Vrchlickeho sady",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -260,10 +292,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GCP7YK",
-        "desc": "Praha - Hlavni nadrazi / Prague - The Main Station",
+        "title": "GCP7YK",
+        "description": "Praha - Hlavni nadrazi / Prague - The Main Station",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -276,10 +310,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC40W0A",
-        "desc": "Ministerstvo",
+        "title": "GC40W0A",
+        "description": "Ministerstvo",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -292,10 +328,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3TZBC",
-        "desc": "U skoly",
+        "title": "GC3TZBC",
+        "description": "U skoly",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -308,10 +346,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1B418",
-        "desc": "Rotunda sv. Krize Mensiho",
+        "title": "GC1B418",
+        "description": "Rotunda sv. Krize Mensiho",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -324,10 +364,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC5H11B",
-        "desc": "Vitejte u brhlika lesniho",
+        "title": "GC5H11B",
+        "description": "Vitejte u brhlika lesniho",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -340,10 +382,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1FV1N",
-        "desc": "Lednicky zamek / The Lednice Castle",
+        "title": "GC1FV1N",
+        "description": "Lednicky zamek / The Lednice Castle",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -356,10 +400,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GCY81N",
-        "desc": "Zizkuv dub",
+        "title": "GCY81N",
+        "description": "Zizkuv dub",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -372,10 +418,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC4Z4X5",
-        "desc": "Visnovka vyhlidka",
+        "title": "GC4Z4X5",
+        "description": "Visnovka vyhlidka",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -388,10 +436,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GCK943",
-        "desc": "Cerna Hora",
+        "title": "GCK943",
+        "description": "Cerna Hora",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -404,10 +454,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC6VDER",
-        "desc": "Prestupni- Underground",
+        "title": "GC6VDER",
+        "description": "Prestupni- Underground",
         "type": "Geocache|Unknown Cache",
-        "marker-color": "#12508c"
+        "marker-color": "#12508c",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -420,10 +472,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC4NGEB",
-        "desc": "Bikerova Maturita",
+        "title": "GC4NGEB",
+        "description": "Bikerova Maturita",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -436,10 +490,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC72B7J",
-        "desc": "Krastelka",
+        "title": "GC72B7J",
+        "description": "Krastelka",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -452,10 +508,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GCPFZX",
-        "desc": "Loreta / Loreto",
+        "title": "GCPFZX",
+        "description": "Loreta / Loreto",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -468,10 +526,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC34C6R",
-        "desc": "Detske hriste a inline-park Praha - Hloubetin",
+        "title": "GC34C6R",
+        "description": "Detske hriste a inline-park Praha - Hloubetin",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -484,10 +544,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC5HWGJ",
-        "desc": "PraGeo - Louis Leger Street / Legerova ulice",
+        "title": "GC5HWGJ",
+        "description": "PraGeo - Louis Leger Street / Legerova ulice",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -500,10 +562,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3EYN4",
-        "desc": "(Modry) Kostol sv. Alzbety",
+        "title": "GC3EYN4",
+        "description": "(Modry) Kostol sv. Alzbety",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -516,10 +580,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1H1EE",
-        "desc": "PraGeo - Stolpersteine / Kameny zmizelych",
+        "title": "GC1H1EE",
+        "description": "PraGeo - Stolpersteine / Kameny zmizelych",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -532,10 +598,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC63KCA",
-        "desc": "Travnik",
+        "title": "GC63KCA",
+        "description": "Travnik",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -548,10 +616,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC4HCH4",
-        "desc": "Namesti Jiriho z Podebrad",
+        "title": "GC4HCH4",
+        "description": "Namesti Jiriho z Podebrad",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -564,10 +634,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC4G34B",
-        "desc": "Softball Pardubice",
+        "title": "GC4G34B",
+        "description": "Softball Pardubice",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -580,10 +652,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC67QYH",
-        "desc": "ZABA NA NEPRAMENI",
+        "title": "GC67QYH",
+        "description": "ZABA NA NEPRAMENI",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -596,10 +670,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GCVT9R",
-        "desc": "Silver A",
+        "title": "GCVT9R",
+        "description": "Silver A",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -612,10 +688,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC36MXJ",
-        "desc": "Janske Lazne - parking",
+        "title": "GC36MXJ",
+        "description": "Janske Lazne - parking",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -628,10 +706,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3019Y",
-        "desc": "Lesopark Jiriho Potucka",
+        "title": "GC3019Y",
+        "description": "Lesopark Jiriho Potucka",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -644,10 +724,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3F4HR",
-        "desc": "Vozickarska c.3 - Praha 9",
+        "title": "GC3F4HR",
+        "description": "Vozickarska c.3 - Praha 9",
         "type": "Geocache|Unknown Cache",
-        "marker-color": "#12508c"
+        "marker-color": "#12508c",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -660,10 +742,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC32EM9",
-        "desc": "Stretneme sa pod mostom/We'll meet under the bridg",
+        "title": "GC32EM9",
+        "description": "Stretneme sa pod mostom/We'll meet under the bridg",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -676,10 +760,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC189E5",
-        "desc": "Prague bridges 1 - Karluv most",
+        "title": "GC189E5",
+        "description": "Prague bridges 1 - Karluv most",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -692,10 +778,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GCX6JV",
-        "desc": "Hradištek",
+        "title": "GCX6JV",
+        "description": "Hradištek",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -708,10 +796,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC2QCFR",
-        "desc": "Comeback/ovka",
+        "title": "GC2QCFR",
+        "description": "Comeback/ovka",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -724,10 +814,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC10HT9",
-        "desc": "Praha v kostce / Cubist facet of Prague",
+        "title": "GC10HT9",
+        "description": "Praha v kostce / Cubist facet of Prague",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -740,10 +832,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1GZK1",
-        "desc": "Prazske legendy - O kostlivci s hrebem v hlave",
+        "title": "GC1GZK1",
+        "description": "Prazske legendy - O kostlivci s hrebem v hlave",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -756,10 +850,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC4QKPJ",
-        "desc": "FILIP TOPOL",
+        "title": "GC4QKPJ",
+        "description": "FILIP TOPOL",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -772,10 +868,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC53HVR",
-        "desc": "Jiraskuv sad",
+        "title": "GC53HVR",
+        "description": "Jiraskuv sad",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -788,10 +886,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC6RVJ5",
-        "desc": "Hradecky Aupark",
+        "title": "GC6RVJ5",
+        "description": "Hradecky Aupark",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -804,10 +904,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GCZAZ7",
-        "desc": "antiflood Kampa",
+        "title": "GCZAZ7",
+        "description": "antiflood Kampa",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -820,10 +922,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC5H243",
-        "desc": "Vitejte u sykory modrinky!",
+        "title": "GC5H243",
+        "description": "Vitejte u sykory modrinky!",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -836,10 +940,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC7286B",
-        "desc": "Toulcuv dvur",
+        "title": "GC7286B",
+        "description": "Toulcuv dvur",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -852,10 +958,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3XHD0",
-        "desc": "Ordo Praedicatorum Praga",
+        "title": "GC3XHD0",
+        "description": "Ordo Praedicatorum Praga",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -868,10 +976,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC48KQQ",
-        "desc": "Kostel sv.Rocha v Olsanech",
+        "title": "GC48KQQ",
+        "description": "Kostel sv.Rocha v Olsanech",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -884,10 +994,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC6Z49V",
-        "desc": "Joze Plecnik",
+        "title": "GC6Z49V",
+        "description": "Joze Plecnik",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -900,10 +1012,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC4V739",
-        "desc": "Hrdlorezy",
+        "title": "GC4V739",
+        "description": "Hrdlorezy",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -916,10 +1030,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC70271",
-        "desc": "Prasna brana / Powder tower",
+        "title": "GC70271",
+        "description": "Prasna brana / Powder tower",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -932,10 +1048,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC5HVHW",
-        "desc": "Kostel sv. Bartolomeje",
+        "title": "GC5HVHW",
+        "description": "Kostel sv. Bartolomeje",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -948,10 +1066,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC42CEM",
-        "desc": "Olsany (Wolschan) - zanikla obec",
+        "title": "GC42CEM",
+        "description": "Olsany (Wolschan) - zanikla obec",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -964,10 +1084,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC5Y02Z",
-        "desc": "Zamek Pardubice - labyrint",
+        "title": "GC5Y02Z",
+        "description": "Zamek Pardubice - labyrint",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -980,10 +1102,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3KZC8",
-        "desc": "Houpava",
+        "title": "GC3KZC8",
+        "description": "Houpava",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -996,10 +1120,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC4XEWX",
-        "desc": "Most Pavla W.",
+        "title": "GC4XEWX",
+        "description": "Most Pavla W.",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1012,10 +1138,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC2D7CW",
-        "desc": "Mista castych zjeveni - Zeleznicni most",
+        "title": "GC2D7CW",
+        "description": "Mista castych zjeveni - Zeleznicni most",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1028,10 +1156,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC6Z2EV",
-        "desc": "Budovy Transgasu",
+        "title": "GC6Z2EV",
+        "description": "Budovy Transgasu",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1044,10 +1174,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC56NXE",
-        "desc": "Bombardovani Pardubic",
+        "title": "GC56NXE",
+        "description": "Bombardovani Pardubic",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1060,10 +1192,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC6NEA2",
-        "desc": "PsP 4 - Polabiny",
+        "title": "GC6NEA2",
+        "description": "PsP 4 - Polabiny",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1076,10 +1210,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC6R7PM",
-        "desc": "Kostel svate Ludmily na Namesti Miru",
+        "title": "GC6R7PM",
+        "description": "Kostel svate Ludmily na Namesti Miru",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1092,10 +1228,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC6YFEM",
-        "desc": "Po kom se jmenuji... IX. - Lexova, Tepleho",
+        "title": "GC6YFEM",
+        "description": "Po kom se jmenuji... IX. - Lexova, Tepleho",
         "type": "Geocache|Unknown Cache",
-        "marker-color": "#12508c"
+        "marker-color": "#12508c",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1108,10 +1246,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3XHR1",
-        "desc": "SPORE 223 - Velke Bilovice",
+        "title": "GC3XHR1",
+        "description": "SPORE 223 - Velke Bilovice",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1124,10 +1264,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1G24F",
-        "desc": "Aquadukt+Peklo",
+        "title": "GC1G24F",
+        "description": "Aquadukt+Peklo",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1140,10 +1282,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1VW1V",
-        "desc": "Mistri sveta 1947 a 1949",
+        "title": "GC1VW1V",
+        "description": "Mistri sveta 1947 a 1949",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1156,10 +1300,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GCYN7F",
-        "desc": "Kubikovy Duby",
+        "title": "GCYN7F",
+        "description": "Kubikovy Duby",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1172,10 +1318,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1GQ2T",
-        "desc": "Prazske legendy - O zkamenelem ulicnikovi",
+        "title": "GC1GQ2T",
+        "description": "Prazske legendy - O zkamenelem ulicnikovi",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1188,10 +1336,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3M37C",
-        "desc": "Za zelenejsi Hradec 4 - Sukovy sady",
+        "title": "GC3M37C",
+        "description": "Za zelenejsi Hradec 4 - Sukovy sady",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1204,10 +1354,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC16G6R",
-        "desc": "Modre kameny",
+        "title": "GC16G6R",
+        "description": "Modre kameny",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1220,10 +1372,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC6ZFNX",
-        "desc": "Masarykovo nadrazi",
+        "title": "GC6ZFNX",
+        "description": "Masarykovo nadrazi",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1236,10 +1390,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC28F4N",
-        "desc": "Lichnice",
+        "title": "GC28F4N",
+        "description": "Lichnice",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1252,10 +1408,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1CA2Y",
-        "desc": "Pisecka brana/Pisek gate",
+        "title": "GC1CA2Y",
+        "description": "Pisecka brana/Pisek gate",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1268,10 +1426,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3K4J3",
-        "desc": "PORICI",
+        "title": "GC3K4J3",
+        "description": "PORICI",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1284,10 +1444,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3BE7A",
-        "desc": "Vrsovicky hrbitov pod Bohdalcem",
+        "title": "GC3BE7A",
+        "description": "Vrsovicky hrbitov pod Bohdalcem",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1300,10 +1462,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GCF496",
-        "desc": "Cache my Czech (Prague)",
+        "title": "GCF496",
+        "description": "Cache my Czech (Prague)",
         "type": "Geocache|Virtual Cache",
-        "marker-color": "#ffffff"
+        "marker-color": "#ffffff",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1316,10 +1480,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1A4GX",
-        "desc": "Blue Steel",
+        "title": "GC1A4GX",
+        "description": "Blue Steel",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1332,10 +1498,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC41HG2",
-        "desc": "Polabiny, zakladni kamen",
+        "title": "GC41HG2",
+        "description": "Polabiny, zakladni kamen",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1348,10 +1516,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC5D4RB",
-        "desc": "Zlaty potok",
+        "title": "GC5D4RB",
+        "description": "Zlaty potok",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1364,10 +1534,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GCGXPB",
-        "desc": "the cemetery cache",
+        "title": "GCGXPB",
+        "description": "the cemetery cache",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1380,10 +1552,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC114TQ",
-        "desc": "Zelena Brana - The Green Gate",
+        "title": "GC114TQ",
+        "description": "Zelena Brana - The Green Gate",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1396,10 +1570,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC6721Z",
-        "desc": "Rolko a motyl",
+        "title": "GC6721Z",
+        "description": "Rolko a motyl",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1412,10 +1588,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC16NTW",
-        "desc": "Kralovsky letohradek/The Royal Summer Palace",
+        "title": "GC16NTW",
+        "description": "Kralovsky letohradek/The Royal Summer Palace",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1428,10 +1606,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC11B7N",
-        "desc": "Kačacia fontána ⛲",
+        "title": "GC11B7N",
+        "description": "Kačacia fontána ⛲",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1444,10 +1624,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC4CNVV",
-        "desc": "Zahadne Hradiste",
+        "title": "GC4CNVV",
+        "description": "Zahadne Hradiste",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1460,10 +1642,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1D4TK",
-        "desc": "FNKV cache",
+        "title": "GC1D4TK",
+        "description": "FNKV cache",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1476,10 +1660,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC484FR",
-        "desc": "Odtrhnuta kotva / Anchor away",
+        "title": "GC484FR",
+        "description": "Odtrhnuta kotva / Anchor away",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1492,10 +1678,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC5EPEF",
-        "desc": "Kocici hradek / Cat's Castle - the early F. Skala",
+        "title": "GC5EPEF",
+        "description": "Kocici hradek / Cat's Castle - the early F. Skala",
         "type": "Geocache|Unknown Cache",
-        "marker-color": "#12508c"
+        "marker-color": "#12508c",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1508,10 +1696,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC2GCRH",
-        "desc": "Posledni trolejbus",
+        "title": "GC2GCRH",
+        "description": "Posledni trolejbus",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1524,10 +1714,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC5FYF6",
-        "desc": "Prazske predmesti",
+        "title": "GC5FYF6",
+        "description": "Prazske predmesti",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1540,10 +1732,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1G3JW",
-        "desc": "Zamecka zahrada",
+        "title": "GC1G3JW",
+        "description": "Zamecka zahrada",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1556,10 +1750,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1QZ1A",
-        "desc": "Cernohorska lanovka",
+        "title": "GC1QZ1A",
+        "description": "Cernohorska lanovka",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1572,10 +1768,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC18JME",
-        "desc": "LIHOPA",
+        "title": "GC18JME",
+        "description": "LIHOPA",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1588,10 +1786,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC6Q7HK",
-        "desc": "Sametova revoluce / The Velvet Revolution",
+        "title": "GC6Q7HK",
+        "description": "Sametova revoluce / The Velvet Revolution",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1604,10 +1804,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1FY8X",
-        "desc": "Alenka v risi divu",
+        "title": "GC1FY8X",
+        "description": "Alenka v risi divu",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1620,10 +1822,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC2V09W",
-        "desc": "Komorni filharmonie Pardubice",
+        "title": "GC2V09W",
+        "description": "Komorni filharmonie Pardubice",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1636,10 +1840,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1Z200",
-        "desc": "Minaret 2",
+        "title": "GC1Z200",
+        "description": "Minaret 2",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1652,10 +1858,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1B1E5",
-        "desc": "Karlinska synagoga",
+        "title": "GC1B1E5",
+        "description": "Karlinska synagoga",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1668,10 +1876,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1EMMK",
-        "desc": "Prague bridges 9 - Manesuv most",
+        "title": "GC1EMMK",
+        "description": "Prague bridges 9 - Manesuv most",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1684,10 +1894,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1A5HB",
-        "desc": "Autobusovy terminal HK",
+        "title": "GC1A5HB",
+        "description": "Autobusovy terminal HK",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1700,10 +1912,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC46HQE",
-        "desc": "Vinohradska vodarna",
+        "title": "GC46HQE",
+        "description": "Vinohradska vodarna",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1716,10 +1930,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC54HMC",
-        "desc": "Vyroci 50 let od zalozeni",
+        "title": "GC54HMC",
+        "description": "Vyroci 50 let od zalozeni",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1732,10 +1948,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC15WFT",
-        "desc": "Neva - Tocna",
+        "title": "GC15WFT",
+        "description": "Neva - Tocna",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1748,10 +1966,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC2Z5ZK",
-        "desc": "Lavka Rokytka",
+        "title": "GC2Z5ZK",
+        "description": "Lavka Rokytka",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1764,10 +1984,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3FB89",
-        "desc": "Hubertka",
+        "title": "GC3FB89",
+        "description": "Hubertka",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1780,10 +2002,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC686AH",
-        "desc": "Guttulli kes",
+        "title": "GC686AH",
+        "description": "Guttulli kes",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1796,10 +2020,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC4RGKW",
-        "desc": "Main Point Karlin",
+        "title": "GC4RGKW",
+        "description": "Main Point Karlin",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1812,10 +2038,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC2BMP8",
-        "desc": "Jak se dela pivo",
+        "title": "GC2BMP8",
+        "description": "Jak se dela pivo",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1828,10 +2056,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC45832",
-        "desc": "DUM U OSLA V KOLEBCE",
+        "title": "GC45832",
+        "description": "DUM U OSLA V KOLEBCE",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1844,10 +2074,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC25J40",
-        "desc": "4.prístav",
+        "title": "GC25J40",
+        "description": "4.prístav",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1860,10 +2092,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3DMAV",
-        "desc": "NADRAZI HK",
+        "title": "GC3DMAV",
+        "description": "NADRAZI HK",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1876,10 +2110,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC36T1W",
-        "desc": "Hoffmanova bouda-celorocka",
+        "title": "GC36T1W",
+        "description": "Hoffmanova bouda-celorocka",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1892,10 +2128,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC60XKE",
-        "desc": "\"Vlasimska ulice\": Cache F - Praha",
+        "title": "GC60XKE",
+        "description": "\"Vlasimska ulice\": Cache F - Praha",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1908,10 +2146,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC19CTH",
-        "desc": "Pardubicke mestske obvody VII",
+        "title": "GC19CTH",
+        "description": "Pardubicke mestske obvody VII",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1924,10 +2164,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC42KJK",
-        "desc": "Pardubicke duby",
+        "title": "GC42KJK",
+        "description": "Pardubicke duby",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1940,10 +2182,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GCZQ7Q",
-        "desc": "Lennon Wall",
+        "title": "GCZQ7Q",
+        "description": "Lennon Wall",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1956,10 +2200,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1JTWG",
-        "desc": "Podivny ptak / The Squawk",
+        "title": "GC1JTWG",
+        "description": "Podivny ptak / The Squawk",
         "type": "Geocache|Unknown Cache",
-        "marker-color": "#12508c"
+        "marker-color": "#12508c",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1972,10 +2218,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC4XPZ8",
-        "desc": "Bartfayova Marina I.  / Bartfay's Marina I.",
+        "title": "GC4XPZ8",
+        "description": "Bartfayova Marina I.  / Bartfay's Marina I.",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -1988,10 +2236,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC6VC6K",
-        "desc": "Zavodu miru - Osada Havranu",
+        "title": "GC6VC6K",
+        "description": "Zavodu miru - Osada Havranu",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2004,10 +2254,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3TR37",
-        "desc": "Pod kamenem #01",
+        "title": "GC3TR37",
+        "description": "Pod kamenem #01",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2020,10 +2272,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC4KHYY",
-        "desc": "Pod kamenem #11",
+        "title": "GC4KHYY",
+        "description": "Pod kamenem #11",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2036,10 +2290,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3TR5C",
-        "desc": "Pod kamenem #04",
+        "title": "GC3TR5C",
+        "description": "Pod kamenem #04",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2052,10 +2308,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3TR5X",
-        "desc": "Pod kamenem #08",
+        "title": "GC3TR5X",
+        "description": "Pod kamenem #08",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2068,10 +2326,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC4F6Q4",
-        "desc": "Houby",
+        "title": "GC4F6Q4",
+        "description": "Houby",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2084,10 +2344,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC4KHZQ",
-        "desc": "Pod kamenem #13",
+        "title": "GC4KHZQ",
+        "description": "Pod kamenem #13",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2100,10 +2362,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC2E6RX",
-        "desc": "Malinska skala",
+        "title": "GC2E6RX",
+        "description": "Malinska skala",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2116,10 +2380,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GCPRBP",
-        "desc": "Lisovska skala",
+        "title": "GCPRBP",
+        "description": "Lisovska skala",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2132,10 +2398,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC2QTTQ",
-        "desc": "Rybnik Rasnik",
+        "title": "GC2QTTQ",
+        "description": "Rybnik Rasnik",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2148,10 +2416,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC4KHZX",
-        "desc": "Pod kamenem #14",
+        "title": "GC4KHZX",
+        "description": "Pod kamenem #14",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2164,10 +2434,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC4KJ08",
-        "desc": "Pod kamenem #15",
+        "title": "GC4KJ08",
+        "description": "Pod kamenem #15",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2180,10 +2452,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3TR60",
-        "desc": "Pod kamenem #09",
+        "title": "GC3TR60",
+        "description": "Pod kamenem #09",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2196,10 +2470,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3TR68",
-        "desc": "Pod kamenem #10",
+        "title": "GC3TR68",
+        "description": "Pod kamenem #10",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2212,10 +2488,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC4KHZB",
-        "desc": "Pod kamenem #12",
+        "title": "GC4KHZB",
+        "description": "Pod kamenem #12",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2228,10 +2506,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3J1RE",
-        "desc": "Na Pasece",
+        "title": "GC3J1RE",
+        "description": "Na Pasece",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2244,10 +2524,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3GPWM",
-        "desc": "Krtecci poklad - II",
+        "title": "GC3GPWM",
+        "description": "Krtecci poklad - II",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2260,10 +2542,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3TR5G",
-        "desc": "Pod kamenem #05",
+        "title": "GC3TR5G",
+        "description": "Pod kamenem #05",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2276,10 +2560,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3TR5M",
-        "desc": "Pod kamenem #06",
+        "title": "GC3TR5M",
+        "description": "Pod kamenem #06",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2292,10 +2578,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3PZ13",
-        "desc": "Milovska cache",
+        "title": "GC3PZ13",
+        "description": "Milovska cache",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2308,10 +2596,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC32K93",
-        "desc": "Studanka Slavena",
+        "title": "GC32K93",
+        "description": "Studanka Slavena",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2324,10 +2614,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3TR53",
-        "desc": "Pod kamenem #03",
+        "title": "GC3TR53",
+        "description": "Pod kamenem #03",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2340,10 +2632,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GCPKRR",
-        "desc": "Devet skal",
+        "title": "GCPKRR",
+        "description": "Devet skal",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2356,10 +2650,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3TR5T",
-        "desc": "Pod kamenem #07",
+        "title": "GC3TR5T",
+        "description": "Pod kamenem #07",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2372,10 +2668,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1PDY0",
-        "desc": "Cesta do Pekla a raje / A way to Hell and eden",
+        "title": "GC1PDY0",
+        "description": "Cesta do Pekla a raje / A way to Hell and eden",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2388,10 +2686,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC3TR4Z",
-        "desc": "Pod kamenem #02",
+        "title": "GC3TR4Z",
+        "description": "Pod kamenem #02",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2404,10 +2704,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1095Y",
-        "desc": "Pankrac",
+        "title": "GC1095Y",
+        "description": "Pankrac",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2420,10 +2722,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1HXBF",
-        "desc": "Meteostanica Vinianske jazero",
+        "title": "GC1HXBF",
+        "description": "Meteostanica Vinianske jazero",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2436,10 +2740,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1M29H",
-        "desc": "Immaculata",
+        "title": "GC1M29H",
+        "description": "Immaculata",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2452,10 +2758,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC34980",
-        "desc": "Vinianske jazero",
+        "title": "GC34980",
+        "description": "Vinianske jazero",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2468,10 +2776,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC23RG2",
-        "desc": "Rumia Banovce",
+        "title": "GC23RG2",
+        "description": "Rumia Banovce",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2484,10 +2794,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC2WXV6",
-        "desc": "PR Olchov",
+        "title": "GC2WXV6",
+        "description": "PR Olchov",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2500,10 +2812,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1CVCW",
-        "desc": "Dom sv. Alzbety - St. Elisabeth Cathedral",
+        "title": "GC1CVCW",
+        "description": "Dom sv. Alzbety - St. Elisabeth Cathedral",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2516,10 +2830,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1X20P",
-        "desc": "Rumia Rozlucka",
+        "title": "GC1X20P",
+        "description": "Rumia Rozlucka",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2532,10 +2848,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1Q1DF",
-        "desc": "Rumia \"Parkovisko\" Morske oko",
+        "title": "GC1Q1DF",
+        "description": "Rumia \"Parkovisko\" Morske oko",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2548,10 +2866,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1KQPV",
-        "desc": "Najstarsia spievajuca fontana",
+        "title": "GC1KQPV",
+        "description": "Najstarsia spievajuca fontana",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2564,10 +2884,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC48FB3",
-        "desc": "Jakabov palac (Jakab Palace)",
+        "title": "GC48FB3",
+        "description": "Jakabov palac (Jakab Palace)",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2580,10 +2902,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC16WXA",
-        "desc": "Alphaforce IV - Mens sana in corpore sano",
+        "title": "GC16WXA",
+        "description": "Alphaforce IV - Mens sana in corpore sano",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2596,10 +2920,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1YMFB",
-        "desc": "Rumia Vinansky kamenolom",
+        "title": "GC1YMFB",
+        "description": "Rumia Vinansky kamenolom",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2612,10 +2938,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC205HB",
-        "desc": "Sea Eye ( Morské oko )",
+        "title": "GC205HB",
+        "description": "Sea Eye ( Morské oko )",
         "type": "Geocache|Earthcache",
-        "marker-color": "#009bbb"
+        "marker-color": "#009bbb",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2628,10 +2956,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC248G5",
-        "desc": "Zelezita stola / Adit Nr. XIV",
+        "title": "GC248G5",
+        "description": "Zelezita stola / Adit Nr. XIV",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2644,10 +2974,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC1GX29",
-        "desc": "Rajska zahrada",
+        "title": "GC1GX29",
+        "description": "Rajska zahrada",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2660,10 +2992,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GCZ9F8",
-        "desc": "Stefanikova hvezdarna",
+        "title": "GCZ9F8",
+        "description": "Stefanikova hvezdarna",
         "type": "Geocache|Unknown Cache",
-        "marker-color": "#12508c"
+        "marker-color": "#12508c",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2676,10 +3010,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC47BHR",
-        "desc": "Panna Maria z Exilu - Our Lady of Exile",
+        "title": "GC47BHR",
+        "description": "Panna Maria z Exilu - Our Lady of Exile",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2692,10 +3028,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC5NA1V",
-        "desc": "Spirala: Logaritmicka",
+        "title": "GC5NA1V",
+        "description": "Spirala: Logaritmicka",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2708,10 +3046,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GCZX78",
-        "desc": "Ruzovy tank",
+        "title": "GCZX78",
+        "description": "Ruzovy tank",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2724,10 +3064,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC16QH5",
-        "desc": "Walking Trabant SP1",
+        "title": "GC16QH5",
+        "description": "Walking Trabant SP1",
         "type": "Geocache|Multi-cache",
-        "marker-color": "#e98300"
+        "marker-color": "#e98300",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2740,10 +3082,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GC5JV8R",
-        "desc": "PraGeo - Petrin Cache",
+        "title": "GC5JV8R",
+        "description": "PraGeo - Petrin Cache",
         "type": "Geocache|Unknown Cache",
-        "marker-color": "#12508c"
+        "marker-color": "#12508c",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -2756,10 +3100,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "GCZ1TW",
-        "desc": "Karpatsky kostelik",
+        "title": "GCZ1TW",
+        "description": "Karpatsky kostelik",
         "type": "Geocache|Traditional Cache",
-        "marker-color": "#02874d"
+        "marker-color": "#02874d",
+        "stroke-width": "1",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
