@@ -2941,6 +2941,635 @@
           50.07855
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC6B1XT",
+        "description": "Rooseveltuv most",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.379783,
+          49.750817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC28WD5",
+        "description": "Mladovozicko - lom",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.817017,
+          49.53195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC1ZM9G",
+        "description": "Vesela",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.78485,
+          50.034717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC18RXP",
+        "description": "Strazce z praveku / Guard from the prehistory",
+        "type": "Geocache|Earthcache",
+        "marker-color": "#009bbb",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.379617,
+          49.745333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC1BVPC",
+        "description": "Pardubicky jez",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.774717,
+          50.0447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC5C8XK",
+        "description": "Knihbudka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.760533,
+          50.050633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC1CFAH",
+        "description": "TKB Pardubice",
+        "type": "Geocache|Unknown Cache",
+        "marker-color": "#12508c",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.767867,
+          50.039617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC5MP7N",
+        "description": "Botanicka zahrada Tabor",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.668083,
+          49.413217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC20CJX",
+        "description": "Plzenska skladanka",
+        "type": "Geocache|Wherigo Cache",
+        "marker-color": "#1562a6",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38085,
+          49.74865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC5R3YB",
+        "description": "Velka voda",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.81695,
+          49.535683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC5FBZ3",
+        "description": "Vyhled na Jordan 2",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.665833,
+          49.415217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC2546C",
+        "description": "Vzpominka na prvni cache v Plzni",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.386683,
+          49.74615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC2545V",
+        "description": "Plzensky Prazdroj / Pilsner Urquell",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38855,
+          49.74885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC5R3XA",
+        "description": "Mala voda",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.820917,
+          49.542133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC5Q8W6",
+        "description": "Nas slavny mestan Kardinal Beran",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37045,
+          49.74485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC429VF",
+        "description": "Petrin Rocks",
+        "type": "Geocache|Earthcache",
+        "marker-color": "#009bbb",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.399633,
+          50.08045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC5FTQ5",
+        "description": "Dekansky kostel #4",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6727,
+          49.416783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC5F7XH",
+        "description": "Vyhled na Jordan",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.669,
+          49.415067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC4W0HX",
+        "description": "Nostek z Pardubic",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.769167,
+          50.04285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC6GNCB",
+        "description": "PO STOPACH PISKOMILU 1",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.300467,
+          50.0496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC6QH3G",
+        "description": "Lorenc a Ferenc",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.677017,
+          49.4111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC3EDCB",
+        "description": "Nadjezd u Tesly",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.788983,
+          50.033317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC1GZMM",
+        "description": "Ohnivy muz",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.384367,
+          49.751217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC6ADCE",
+        "description": "Po kom se jmenuji... V. - Bubenikova, Strossova",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#e98300",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.78775,
+          50.0372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC6PNZF",
+        "description": "Po kom se jmenuji... VII. - Winternitzova",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.788183,
+          50.04455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC123HA",
+        "description": "Selmberk",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.827017,
+          49.54925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC2QZ5Z",
+        "description": "Kavova kes / Coffee cache",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.297333,
+          50.049667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC2NMZB",
+        "description": "Plzen – zst. Jizni predmesti / South Station",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3688,
+          49.740317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC6C64R",
+        "description": "Z Pardubic do Liberce",
+        "type": "Geocache|Unknown Cache",
+        "marker-color": "#12508c",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.744367,
+          50.040567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GCY81P",
+        "description": "Plzenske sady / Pilsener parks",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#e98300",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.382333,
+          49.748067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC6E44M",
+        "description": "Mokrad",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.816767,
+          49.539717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC4EVH4",
+        "description": "Nemocnice Frantiska Josefa",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.67115,
+          49.410533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC20RK2",
+        "description": "Mladovozicko - II. svetova valka",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#e98300",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8099,
+          49.521567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC3A8ZW",
+        "description": "Peklo v poli / Feldhell",
+        "type": "Geocache|Unknown Cache",
+        "marker-color": "#12508c",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.758217,
+          50.04925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC5C7NM",
+        "description": "Kykyryky",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.768333,
+          50.037317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC3B4V4",
+        "description": "Rosicko-Pardubicka rafinerie cukru Jindrich Benies",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.742083,
+          50.043317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC6NWHG",
+        "description": "Meandry",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.81545,
+          49.54475
+        ]
+      }
     }
   ]
 }
