@@ -32,6 +32,7 @@ colors = {"Geocache|Traditional Cache": "#02874d",
 		  "Geocache|Multi-cache": "#e98300",
 		  "Geocache|Virtual Cache": "#ffffff",
 		  "Geocache|Earthcache": "#009bbb",
+		  "Geocache|Wherigo Cache": "#1562a6",
 		  "fallback": "#ff0000"}
 
 for filename in args.gpx:
