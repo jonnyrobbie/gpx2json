@@ -12,6 +12,7 @@ vcount = {2: logging.DEBUG,
 #argument parser
 parser = argparse.ArgumentParser(description='Converts c:geo gpx to geojson.')
 parser.add_argument("-j", "--json", help="Outputs formatted GeoJSON.", action="store_true")
+parser.add_argument("-o", "--original", help="Exports location of 'Original Coordinates' waypoint instead of changed cache location.", action="store_true")
 parser.add_argument("-v", "--verbose", help="Verbose output.", action="count")
 parser.add_argument('gpx', nargs='+', help="GPX files exported from c:geo")
 args = parser.parse_args()
@@ -19,7 +20,8 @@ args = parser.parse_args()
 logging.basicConfig(level=vcount[args.verbose])
 
 #geocache variables
-ns = {"tg": "http://www.topografix.com/GPX/1/0"}
+ns = {"tg": "http://www.topografix.com/GPX/1/0",
+	  "gsak": "http://www.gsak.net/xmlv1/6"}
 features = []
 unknowns_detected = []
 names = []
@@ -45,12 +47,23 @@ for filename in args.gpx:
 			gc_type = wpt.find('tg:type', ns).text
 			gc_lat = float(wpt.attrib['lat'])
 			gc_lon = float(wpt.attrib['lon'])
+			info_orig = ""
+			if args.original:
+				path = "tg:wpt/gsak:wptExtension/[gsak:Parent='" + gc_name + "']/../[tg:sym='Original Coordinates']"
+				orig_wpt = gpx.find(path, ns)
+				try:
+					logging.debug("Waypoints: %s, name: %s", str(orig_wpt), orig_wpt.find('tg:name', ns).text)
+					gc_lat = float(orig_wpt.attrib['lat'])
+					gc_lon = float(orig_wpt.attrib['lon'])
+					info_orig = " (using original wpt)"
+				except AttributeError:
+					pass
 			try:
 				gc_color = colors[gc_type]
 			except KeyError:
 				gc_color = colors["fallback"]
 				unknowns_detected.append(gc_type)
-			logging.info("%s %s %s %f %f", gc_name, gc_type, gc_desc, gc_lat, gc_lon)
+			logging.info("%s %s %s %f %f%s", gc_name, gc_type, gc_desc, gc_lat, gc_lon, info_orig)
 			properties = {"title": gc_name,
 				 "description": gc_desc,
 				 "type": gc_type,
