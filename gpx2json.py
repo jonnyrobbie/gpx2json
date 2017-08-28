@@ -15,10 +15,6 @@ parser.add_argument("-j", "--json", help="Outputs formatted GeoJSON.", action="s
 parser.add_argument("-v", "--verbose", help="Verbose output.", action="count")
 parser.add_argument('gpx', nargs='+', help="GPX files exported from c:geo")
 args = parser.parse_args()
-if args.json == True:
-	json_print = 1
-else:
-	json_print = 0
 
 logging.basicConfig(level=vcount[args.verbose])
 
@@ -82,5 +78,5 @@ if len(duplicates) != 0:
 logging.info("Total caches added: %i", len(features))
 logging.info("====================")
 geojson = {"type": "FeatureCollection", "features": features}
-if json_print:
+if args.json:
 	print(json.JSONEncoder(indent=2, ensure_ascii=False).encode(geojson))
