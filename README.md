@@ -2,7 +2,7 @@ The pytohn script is used to convert GPX files exported by C:GEO geocaching appl
 Since Github does some neat nifty automatic map rendering for GeoJSON files, I'm also hosting my found caches here on this repo.
 
 ```
-usage: process.py [-h] [-j] [-v] gpx [gpx ...]
+usage: gpx2json.py [-h] [-j] [-v] gpx [gpx ...]
 
 Converts c:geo gpx to geojson.
 
