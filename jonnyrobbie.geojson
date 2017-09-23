@@ -3570,6 +3570,907 @@
           49.54475
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC73AMC",
+        "description": "AGT 81: Udoli ticha",
+        "type": "Geocache|Earthcache",
+        "marker-color": "#009bbb",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.884517,
+          49.92055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC6HR5P",
+        "description": "Kesky nejsou Pokemoni",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.815783,
+          50.21715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC72CZA",
+        "description": "Zebracky stroj casu 14: Prodej Aljasky",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.90375,
+          49.925067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC72CZG",
+        "description": "Zebracky stroj casu BONUS: Budoucnost",
+        "type": "Geocache|Unknown Cache",
+        "marker-color": "#12508c",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.884983,
+          49.921067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC73JVP",
+        "description": "Zebracky stroj casu 25: Odhaleni masakru v Katyni",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.881717,
+          49.927167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC3EZXA",
+        "description": "Bitva o Zleby",
+        "type": "Geocache|Wherigo Cache",
+        "marker-color": "#1562a6",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.48225,
+          49.887317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC73AJA",
+        "description": "Zebracky stroj casu 21: Olympijske hry",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.891417,
+          49.93005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC1A4GA",
+        "description": "Muzeum - Za Gocarem a Koterou I.",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8277,
+          50.212083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC3G19W",
+        "description": "Hradecky zimni stadion",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.828683,
+          50.207067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC73AJR",
+        "description": "Zebracky stroj casu 22: Zalozeni WHO",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.888467,
+          49.929433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC2C30B",
+        "description": "Cihelna: hrat ci nehrat?",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#e98300",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.776867,
+          50.047583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC72PRY",
+        "description": "Zebracky stroj casu 12: Nejvetsi letecka havarie",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.90915,
+          49.927417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC3MFMN",
+        "description": "Okolo Sece - 15 - Autokemp Sec Plaz",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6457,
+          49.8405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC6F6WJ",
+        "description": "Univerzita Pardubice",
+        "type": "Geocache|Wherigo Cache",
+        "marker-color": "#1562a6",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7761,
+          50.050333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC72CYV",
+        "description": "Zebracky stroj casu 8: Vznik kina",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9174,
+          49.931617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC3MFKQ",
+        "description": "Okolo Sece - 14 - pohled na hraz",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.652633,
+          49.839533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC7339Q",
+        "description": "Zebracky stroj casu 18: Dobyti severniho polu",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.899283,
+          49.930783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC71QJF",
+        "description": "Zebracky stroj casu 4: Mezinarodni den zen",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.92145,
+          49.936467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC4NCA0",
+        "description": "Za zelenejsi Hradec 5 - Parcik u Strelnice",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.819483,
+          50.211933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC7358E",
+        "description": "Zebracky stroj casu 19: Skupina Abba",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8975,
+          49.932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC72KJT",
+        "description": "Zebracky stroj casu 11: Sedlaci u Chlumce",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9117,
+          49.927567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC73RXH",
+        "description": "Zebracky stroj casu BONUS: Doba ledova",
+        "type": "Geocache|Unknown Cache",
+        "marker-color": "#12508c",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.87965,
+          49.925483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC68Y9M",
+        "description": "Zder / Koprivova",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.353717,
+          49.97555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC73C1H",
+        "description": "Zebracky stroj casu 23: Konec obcan. valky USA",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8863,
+          49.92875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC3MFJ7",
+        "description": "Okolo Sece - 13 - prehradni hraz",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.652317,
+          49.8355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC71T3X",
+        "description": "Zebracky stroj casu 6: Nemecka okupace",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.921017,
+          49.932867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC6VM0Y",
+        "description": "Kostel sv. Petra a Pavla",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#e98300",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.360983,
+          49.9796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC71MD6",
+        "description": "Zebracky stroj casu 1: Start",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.921217,
+          49.941167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC72J4D",
+        "description": "Zebracky stroj casu 10: Hanc a Vrbata",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.912867,
+          49.9289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC71RYW",
+        "description": "Zebracky stroj casu 5: Smrt Jana Masaryka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9214,
+          49.934617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC732ZJ",
+        "description": "UHK",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.82775,
+          50.203517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC73AJ5",
+        "description": "Zebracky stroj casu 20: Prvni prezident USA",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8948,
+          49.9303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC6225N",
+        "description": "Namesti Cenka Strouhala",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#e98300",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65555,
+          49.847317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC1GRVB",
+        "description": "Emmenthal",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.831017,
+          50.204383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC3DYX1",
+        "description": "Muzeum vapenictvi - Berlova vapenka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.570883,
+          49.876233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC73JX9",
+        "description": "Zebracky stroj casu 26: Prvni satelitni navigace",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.87945,
+          49.927083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC73AN0",
+        "description": "Zebracky stroj casu BONUS: Doba kamenna",
+        "type": "Geocache|Unknown Cache",
+        "marker-color": "#12508c",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8821,
+          49.924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC7275Z",
+        "description": "Zebracky stroj casu 7: Teorie relativity",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.919967,
+          49.931333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC72CZD",
+        "description": "Zebracky stroj casu 15: Umrti Karla Maye",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.904317,
+          49.926517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC3MFNY",
+        "description": "Okolo Sece - 17 - Caslavska zatoka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.639667,
+          49.830233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC750D1",
+        "description": "Taky čteme knihy",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.820883,
+          50.216017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC73AMD",
+        "description": "AGT 80: Vodopad na Kublovskem potoce",
+        "type": "Geocache|Earthcache",
+        "marker-color": "#009bbb",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8797,
+          49.925083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC2KCK6",
+        "description": "Cihelna: pohledem z kocarku",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#e98300",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.771083,
+          50.049783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC73AN4",
+        "description": "Zebracky stroj casu BONUS: Stredovek",
+        "type": "Geocache|Unknown Cache",
+        "marker-color": "#12508c",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.883,
+          49.92245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC2X3KH",
+        "description": "Zlebsky letterbox",
+        "type": "Geocache|Letterbox hybrid",
+        "marker-color": "#f1f2f3",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.484883,
+          49.885783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC72Z16",
+        "description": "Zebracky stroj casu 17: Vznik NATO",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.899933,
+          49.929017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC73JRQ",
+        "description": "Zebracky stroj casu 24: Vynalez gilotiny",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.88415,
+          49.92775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC72CZ9",
+        "description": "Zebracky stroj casu 13: J. A. Komensky",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.90655,
+          49.926967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC71NYW",
+        "description": "Zebracky stroj casu 3: Bitva u Sokolova",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.921267,
+          49.938217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC72Z02",
+        "description": "Zebracky stroj casu 16: Dostavba Eiffelovy veze",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.90195,
+          49.927133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC72EQY",
+        "description": "Zebracky stroj casu 9: Palac Lucerna",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.915333,
+          49.930433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC3MFNB",
+        "description": "Okolo Sece - 16 - pod Plynostavem a Semtinakem",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.640967,
+          49.8384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC5F94R",
+        "description": "Krasne namesti",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.824817,
+          50.2115
+        ]
+      }
     }
   ]
 }
