@@ -4471,6 +4471,159 @@
           50.2115
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC3MQGX",
+        "description": "Prionia Gefyra",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.407383,
+          40.08445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC3W9VR",
+        "description": "Letiste Vaclava Havla Praha",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2659,
+          50.1052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC4K6K0",
+        "description": "Monastery of Prodromos #2",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.239817,
+          40.4583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC4V0MA",
+        "description": "Floral park",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.954433,
+          40.6225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC7CE50",
+        "description": "Dioikitirio square = Πλατεία Διοικητηρίου",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.943767,
+          40.6403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC4GDBZ",
+        "description": "Perea III",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.907133,
+          40.505167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC4CDAY",
+        "description": "Thessaloniki Earthquake of 1978",
+        "type": "Geocache|Earthcache",
+        "marker-color": "#009bbb",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.939067,
+          40.637283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC47Y5P",
+        "description": "St. Ioannis Catacomb",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.946883,
+          40.6323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC4AAAA",
+        "description": "Makedonia Airport TB Hotel",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.984433,
+          40.5278
+        ]
+      }
     }
   ]
 }
