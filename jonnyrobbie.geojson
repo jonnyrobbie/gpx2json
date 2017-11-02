@@ -4624,6 +4624,380 @@
           40.5278
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC2GR4W",
+        "description": "Prazska bouda",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7304,
+          50.670733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC224RN",
+        "description": "Jedlickuv ustav a skoly",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.425083,
+          50.06015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC6YC2Z",
+        "description": "Kostel svateho Vaclava",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.404367,
+          50.074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC2J8TV",
+        "description": "N 50° 00.000 (1)",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.403617,
+          50.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC2MYCB",
+        "description": "Historicke fotografie Modran",
+        "type": "Geocache|Multi-cache",
+        "marker-color": "#e98300",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.402967,
+          50.003383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC1DZ6Y",
+        "description": "14. rijna/14th October",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.407617,
+          50.073283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC6E938",
+        "description": "Lesni bouda",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7095,
+          50.677167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC4FB4A",
+        "description": "Novomestsky pivovar",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.422633,
+          50.0794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GCJVZV",
+        "description": "United Islands of Prague No.2",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.409333,
+          50.0771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC3TRVK",
+        "description": "Klondike oblast vyskytu Yettiho",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.721017,
+          50.674217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC1H4BA",
+        "description": "Prague bridges 11 - Jiraskuv most",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.409933,
+          50.075533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC2Q0XM",
+        "description": "Husova Knihovna v Modranech",
+        "type": "Geocache|Unknown Cache",
+        "marker-color": "#12508c",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.405083,
+          50.003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC503AT",
+        "description": "VYHLIDKA POD LISKOU",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.692083,
+          50.692333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC6V319",
+        "description": "JAKUB ARBES",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.404767,
+          50.076367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC7C0QP",
+        "description": "Pohybliva socha Franze Kafky",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.421267,
+          50.081217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC5037X",
+        "description": "LYZARSKA BOUDA",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.70105,
+          50.68395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC1G2AK",
+        "description": "Vyhled na depo",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.515183,
+          50.07165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC3ARKP",
+        "description": "Svoboda",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51985,
+          50.0788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC553TV",
+        "description": "Rozcesti",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.674883,
+          50.705783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC2Z181",
+        "description": "Praha - Modrany zastavka",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.40265,
+          50.005017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC4RZZM",
+        "description": "Golf na Cernem Moste",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.593867,
+          50.090067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GC4DYQA",
+        "description": "Dopravni podnik - Garaz Hostivar",
+        "type": "Geocache|Traditional Cache",
+        "marker-color": "#02874d",
+        "stroke-width": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5255,
+          50.070317
+        ]
+      }
     }
   ]
 }
