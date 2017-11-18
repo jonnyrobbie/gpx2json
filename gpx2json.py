@@ -38,9 +38,8 @@ colors = {"Geocache|Traditional Cache": "#02874d",
 		  "fallback": "#ff0000"}
 
 for filename in args.gpx:
-	logging.info("====================")
-	logging.info("Parsing %s", filename)
-	logging.info("--------------------")
+	logging.warning("====================")
+	logging.warning("Parsing %s", filename)
 	#XML parsing
 	tree = ET.parse(filename)
 	gpx = tree.getroot()
@@ -57,7 +56,7 @@ for filename in args.gpx:
 					gc_lon_orig = gc_lon
 					gc_lat = gc_lat + round(random.uniform(-0.0002,+0.0002), 5)
 					gc_lon = gc_lon + round(random.uniform(-0.0002,+0.0002), 5)
-					logging.warning("Premium found: %s - %s. Adjusted distance is %fm", gc_name, gc_desc, gpxpy.geo.haversine_distance(gc_lat_orig, gc_lon_orig, gc_lat, gc_lon))
+					logging.info("Premium found: %s - %s. Adjusted distance is %fm", gc_name, gc_desc, gpxpy.geo.haversine_distance(gc_lat_orig, gc_lon_orig, gc_lat, gc_lon))
 			info_orig = ""
 			if args.original:
 				path = "tg:wpt/gsak:wptExtension/[gsak:Parent='" + gc_name + "']/../[tg:sym='Original Coordinates']"
