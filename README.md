@@ -14,3 +14,5 @@ optional arguments:
   -j, --json     Outputs formatted GeoJSON.
   -v, --verbose  Outputs cache parsing details.
 ```
+
+Needs non-standard library `gpxpy` to be installed.

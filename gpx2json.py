@@ -4,6 +4,8 @@ import json
 import os
 import argparse
 import logging
+import random
+import gpxpy.geo
 
 vcount = {2: logging.DEBUG,
 		  1: logging.INFO,
@@ -14,6 +16,7 @@ parser = argparse.ArgumentParser(description='Converts c:geo gpx to geojson.')
 parser.add_argument("-j", "--json", help="Outputs formatted GeoJSON.", action="store_true")
 parser.add_argument("-o", "--original", help="Exports location of 'Original Coordinates' waypoint instead of changed cache location.", action="store_true")
 parser.add_argument("-v", "--verbose", help="Verbose output.", action="count")
+parser.add_argument("-p", "--premium", help="Protect premium caches by adding random noise to degrees.", action="store_true")
 parser.add_argument('gpx', nargs='+', help="GPX files exported from c:geo")
 args = parser.parse_args()
 
@@ -48,6 +51,13 @@ for filename in args.gpx:
 			gc_type = wpt.find('tg:type', ns).text
 			gc_lat = float(wpt.attrib['lat'])
 			gc_lon = float(wpt.attrib['lon'])
+			if wpt.find('gsak:wptExtension', ns).find('gsak:IsPremium', ns).text == "true":
+				if args.premium:
+					gc_lat_orig = gc_lat
+					gc_lon_orig = gc_lon
+					gc_lat = gc_lat + round(random.uniform(-0.0002,+0.0002), 5)
+					gc_lon = gc_lon + round(random.uniform(-0.0002,+0.0002), 5)
+					logging.warning("Premium found: %s - %s. Adjusted distance is %fm", gc_name, gc_desc, gpxpy.geo.haversine_distance(gc_lat_orig, gc_lon_orig, gc_lat, gc_lon))
 			info_orig = ""
 			if args.original:
 				path = "tg:wpt/gsak:wptExtension/[gsak:Parent='" + gc_name + "']/../[tg:sym='Original Coordinates']"
