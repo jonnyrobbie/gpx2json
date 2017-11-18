@@ -82,15 +82,15 @@ def find_dups(l):
 	return list(set([x for x in l if l.count(x) > 1]))
 duplicates = find_dups(names)
 
-logging.info("====================")
-logging.info("Unidentified types: %i", len(unknowns_detected))
+logging.warning("====================")
+logging.warning("Unidentified types: %i", len(unknowns_detected))
 if len(unknowns_detected) != 0:
 	logging.warning("Detected unidentified cache types: %s", unknowns_detected)
-logging.info("Duplicate caches: %i", len(duplicates))
+logging.warning("Duplicate caches: %i", len(duplicates))
 if len(duplicates) != 0:
 	logging.warning("List of duplicates: %s", duplicates)
-logging.info("Total caches added: %i", len(features))
-logging.info("====================")
+logging.warning("Total caches added: %i", len(features))
+logging.warning("====================")
 geojson = {"type": "FeatureCollection", "features": features}
 if args.json:
 	print(json.JSONEncoder(indent=2, ensure_ascii=False).encode(geojson))
