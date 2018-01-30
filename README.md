@@ -16,3 +16,7 @@ optional arguments:
 ```
 
 Needs non-standard library `gpxpy` to be installed.
+
+---
+
+[Map rendering of found caches.](https://jonnyrobbie.github.io/gpx2json/)
