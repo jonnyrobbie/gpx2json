@@ -1,5 +1,5 @@
-The python script is used to convert GPX files exported by C:GEO geocaching application to GeoJSON format.
-Since Github does some neat nifty automatic map rendering for GeoJSON files, I'm also hosting my found caches here on this repo.
+This python script is used to convert GPX files exported by C:GEO geocaching application to GeoJSON format.
+
 
 ```
 usage: gpx2json.py [-h] [-j] [-o] [-v] [-p] gpx [gpx ...]
@@ -22,4 +22,5 @@ Needs non-standard library `gpxpy` to be installed.
 
 ---
 
-[Map rendering of found caches.](https://jonnyrobbie.github.io/gpx2json/)
+Github does some neat automatic rendering, so I'm also hosting my personal geocache history here.
+[Mobile friendly map rendering.](https://jonnyrobbie.github.io/gpx2json/)
