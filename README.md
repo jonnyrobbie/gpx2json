@@ -18,7 +18,9 @@ optional arguments:
   -p, --premium   Protect premium caches by adding random noise to degrees.
 ```
 
-Needs non-standard library `gpxpy` to be installed.
+Needs non-standard python module `gpxpy` to be installed. Do `pip install gpxpy` or make sure it's installed otherwise.
+
+You can use the script as a standalone, or you can customize the makefile and do `make` after every addition to your gpx folder. You might also want to modify the line 2 of docs/script.js.
 
 ---
 
